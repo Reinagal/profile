@@ -7,7 +7,7 @@ body{
 }
 
 h1, h2, h3 {
-  color: #00171F;
+  color: #394053;
   font-family: 'Oswald', sans-serif;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-  color: #00171F;
+  color: #394053;
   text-decoration: none;
   font-weight: bold;
 }
@@ -61,7 +61,7 @@ td {
 
 .profile-picture {
   width: 150px;
-  border: 3px solid #00171F;
+  border: 3px solid #394053;
 }
 
 .img-movies {

@@ -4,6 +4,9 @@ body{
   color: #76949F;
   font-size: 16px;
   line-height: 20px;
+  background-image: url("https://images5.alphacoders.com/542/thumb-1920-542019.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 h1, h2, h3 {
@@ -111,7 +114,7 @@ td {
 }
 
 .card {
-  background-color:#EDF2F4;
+  background-color: rgba(237, 242, 244, 0.8);
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
